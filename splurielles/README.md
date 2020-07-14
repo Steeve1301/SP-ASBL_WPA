@@ -1,5 +1,7 @@
 # splurielles
 
+[In progress] 
+
 ## Project setup
 ```
 yarn install
