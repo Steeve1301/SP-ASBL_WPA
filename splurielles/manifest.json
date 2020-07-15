@@ -1,0 +1,21 @@
+{
+    "nom": "Solidarites Plurielles",
+    "short_name": "SPlur",
+    "start_url": "index.html? utm_source = homescreen",
+    "portée" : "./",
+    "Icônes": [
+        {
+            "src": "./android-chrome-192x192.png",
+            "tailles": "192x192",
+            "type": "image / png"
+        },
+        {
+            "src": "./android-chrome-512x512.png",
+            "tailles": "512x512",
+            "type": "image / png"
+        }
+    ],
+    "theme_color": "# ffee00",
+    "background_color": "# ffee00",
+    "affichage": "autonome"
+}
